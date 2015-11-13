@@ -1,0 +1,5 @@
+s = 'saranya'
+if s.isdigit():
+    print "Number"
+else:
+    print "Alphabet"
